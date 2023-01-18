@@ -1,0 +1,2 @@
+[[history of information archival]] [[Lec 3]]
+why would north america suppress queer characters and other minorty group characters if them being a part of public information wasn't a threat to the fabric of society as they understand it

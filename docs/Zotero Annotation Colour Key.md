@@ -1,0 +1,5 @@
+- Yellow: Confusion/question
+- Green: Agree
+- Red: Disagree
+- Blue: definitions/concepts
+- Purple: Relevant/important
